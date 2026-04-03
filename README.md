@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Vijith Anil 👋
 
-<!--
-**vijithanil/vijithanil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **Embedded Systems Engineer** who loves working at the intersection of hardware and software. From writing bare-metal firmware to building connected IoT systems — I enjoy every layer of the stack that runs close to silicon.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+- 🔧 I build reliable, efficient firmware for resource-constrained devices
+- 📡 I work across microcontrollers, communication protocols, and real-time systems
+- 🧠 I care deeply about clean, maintainable low-level code
+- 🌱 Currently exploring: **IoT / Altium / STM / Product Development**
+- 📍 Based in India
+
+---
+
+## ⚙️ Skills & Expertise
+
+**Firmware & Software**
+- Bare-metal C/C++ development
+- Python 
+
+**Hardware & Platforms**
+- ARM Cortex-M (STM32, AT32)
+- Espressif (ESP32, ESP8266)
+- AVR / Arduino ecosystem
+
+**Communication Protocols**
+- UART, SPI, I2C
+- MQTT, HTTP, BLE, Wi-Fi, Modbus
+
+**Tools & Workflow**
+- Git, VS Code, STM32CubeIDE, AT32 IDE, Arduino IDE, Thonny, Altium, KiCad, Proteus etc
+- Logic analyzers, oscilloscopes
+
+---
+
+## 📫 Contact Me
+
+- 💼 [LinkedIn]www.linkedin.com/in/vijithanil
+
+---
+
+*"Make it work, make it right, make it fast — especially when you're running on 64KB of RAM."*

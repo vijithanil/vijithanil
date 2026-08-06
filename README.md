@@ -17,7 +17,8 @@ I'm an **Embedded Systems Engineer** who loves working at the intersection of ha
 ## ⚙️ Skills & Expertise
 
 **Firmware**
-- Bare-metal C/C++ development
+- Bare-metal C development
+- C
 - Python 
 
 **Hardware & Platforms**

@@ -1,6 +1,6 @@
 # Hi, I'm Vijith Anil 👋
 
-I'm an **Embedded Systems Engineer** who loves working at the intersection of hardware and software. From writing bare-metal firmware to building connected IoT systems — I enjoy every layer of the stack that runs close to silicon.
+I'm an **Embedded Systems Engineer** who loves working at the intersection of hardware and software. From writing bare-metal firmware to building connected IoT systems - I enjoy every layer of the stack that runs close to silicon.
 
 ---
 
@@ -43,4 +43,4 @@ I'm an **Embedded Systems Engineer** who loves working at the intersection of ha
 
 ---
 
-*"Make it work, make it right, make it fast — especially when you're running on 64KB of RAM."*
+*"Make it work, make it right, make it fast - especially when you're running on 64KB of RAM."*

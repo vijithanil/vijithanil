@@ -4,19 +4,19 @@ I'm an **Embedded Systems Engineer** who loves working at the intersection of ha
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🔧 I build reliable, efficient firmware for resource-constrained devices
-- 📡 I work across microcontrollers, communication protocols, and real-time systems
-- 🧠 I care deeply about clean, maintainable low-level code
-- 🌱 Currently exploring: **IoT / Altium / STM / Product Development**
-- 📍 Based in India
+-  I build reliable, efficient firmware for resource-constrained devices
+-  Work across microcontrollers, communication protocols and real-time systems
+-  Focus deeply about clean, maintainable low-level code
+-  Exploring: **IoT / ARM / STM / RTOS / Embedded Linux / Product Development**
+-  Based in India
 
 ---
 
 ## ⚙️ Skills & Expertise
 
-**Firmware & Software**
+**Firmware**
 - Bare-metal C/C++ development
 - Python 
 
@@ -24,13 +24,14 @@ I'm an **Embedded Systems Engineer** who loves working at the intersection of ha
 - ARM Cortex-M (STM32, AT32)
 - Espressif (ESP32, ESP8266)
 - AVR / Arduino ecosystem
+- Raspberry pi 4
 
 **Communication Protocols**
 - UART, SPI, I2C
 - MQTT, HTTP, BLE, Wi-Fi, Modbus
 
 **Tools & Workflow**
-- Git, VS Code, STM32CubeIDE, AT32 IDE, Arduino IDE, Thonny, Altium, KiCad, Proteus etc
+- VS Code, STM32CubeIDE, AT32 IDE, Arduino IDE, Thonny, KiCad, Proteus etc
 - Logic analyzers, oscilloscopes
 
 ---
